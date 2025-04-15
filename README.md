@@ -1,2 +1,2 @@
 # DataSci
-Repo for data science learning and practice
+Repo for data science learning and practice.
